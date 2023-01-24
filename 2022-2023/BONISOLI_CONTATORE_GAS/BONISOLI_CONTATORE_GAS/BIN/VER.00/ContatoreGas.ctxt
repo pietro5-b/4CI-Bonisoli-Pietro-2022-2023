@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=ContatoreGas
+comment1.params=
+comment1.target=ContatoreGas()
+comment2.params=precedente\ attuale
+comment2.target=ContatoreGas(double,\ double)
+comment3.params=precedente
+comment3.target=void\ setConsumoPrecedente(double)
+comment4.params=
+comment4.target=double\ getConsumoPrecedente()
+comment5.params=attuale
+comment5.target=void\ setConsumoAttuale(double)
+comment6.params=
+comment6.target=double\ getConsumoAttuale()
+comment7.params=
+comment7.target=double\ rilevazionePrecedente()
+comment8.params=
+comment8.target=double\ rilevazioneAttaule()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
